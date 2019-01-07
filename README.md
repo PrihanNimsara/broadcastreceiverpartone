@@ -1,0 +1,2 @@
+# broadcastreceiverpartone
+declare in manifest
